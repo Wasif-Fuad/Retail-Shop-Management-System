@@ -1,0 +1,146 @@
+
+                                 Retail Shop Management System 
+____________________________________________
+Customer name : Wasif Fuad
+
+Mobile number :01789980207
+
+================================================
+Id     Product name      Unit        Per unit price     Total price 
+101      Chochlet                        1             30              30
+102      Biscuit                        1             50              50
+103      Layschip                        3             70              210
+
+___________________________________________________________
+                                                                               Total : 430
+ 
+                                                                       Vat(5%)  :21
+
+========================================================
+                                                                    Grand Total : 21430
+                                 Retail Shop Management System 
+____________________________________________
+Customer name : Mostofa
+
+Mobile number :01789980207
+
+================================================
+Id     Product name      Unit        Per unit price     Total price 
+101      Chochlet                        1             30              30
+102      Biscuit                        1             50              50
+103      Layschip                        3             70              210
+
+___________________________________________________________
+                                                                               Total : 430
+ 
+                                                                       Vat(5%)  :21
+
+========================================================
+                                                                    Grand Total : 21430
+                                 Retail Shop Management System 
+____________________________________________
+Customer name : Mossaddek
+
+Mobile number :01365849755
+
+================================================
+Id     Product name      Unit        Per unit price     Total price 
+301      HandWash                        1             36              36
+204      Rice                        1             60              60
+201      Cake                        5             320              1600
+
+___________________________________________________________
+                                                                               Total : 1696
+ 
+                                                                       Vat(5%)  :84
+
+========================================================
+                                                                    Grand Total : 841696
+                                 Retail Shop Management System 
+____________________________________________
+Customer name : Maisha
+
+Mobile number :014789526
+
+================================================
+Id     Product name      Unit        Per unit price     Total price 
+103      Layschip                        10             70              700
+104      Soap                        10             35              350
+105      Chips                        10             10              100
+201      Cake                        10             320              3200
+201      Cake                        10             320              3200
+
+___________________________________________________________
+                                                                               Total : 7550
+ 
+                                                                       Vat(5%)  :377
+
+========================================================
+                                                                    Grand Total : 3777550
+                                 Retail Shop Management System 
+____________________________________________
+Customer name : kibria
+
+Mobile number :017895244
+
+================================================
+Id     Product name      Unit        Per unit price     Total price 
+205      Wheat                        1             60              60
+
+___________________________________________________________
+                                                                               Total : 60
+ 
+                                                                       Vat(5%)  :3
+
+========================================================
+                                                                    Grand Total : 360
+                                 Retail Shop Management System 
+____________________________________________
+Customer name : 
+
+Mobile number :
+
+================================================
+Id     Product name      Unit        Per unit price     Total price 
+
+___________________________________________________________
+                                                                               Total : 0
+ 
+                                                                       Vat(5%)  :0
+
+========================================================
+                                                                    Grand Total : 00
+                                 Retail Shop Management System 
+____________________________________________
+Customer name : wasif 
+
+Mobile number :01789980207
+
+================================================
+Id     Product name      Unit        Per unit price     Total price 
+101      Chochlet                        1             30              30
+101      Chochlet                        1             30              30
+
+___________________________________________________________
+                                                                               Total : 60
+ 
+                                                                       Vat(5%)  :3
+
+========================================================
+                                                                    Grand Total : 360
+                                 Retail Shop Management System 
+____________________________________________
+Customer name : 
+
+Mobile number :
+
+================================================
+Id     Product name      Unit        Per unit price     Total price 
+
+___________________________________________________________
+                                                                               Total : 0
+ 
+                                                                       Vat(5%)  :0
+
+========================================================
+                                                                    Grand Total : 00
